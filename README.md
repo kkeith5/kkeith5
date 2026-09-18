@@ -1,5 +1,5 @@
 # Hi, I'm Keith
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/keith-s-hennigan-03083979/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional with experience in cloud technologies, technical troubleshooting and enterprise IT environments. I have a background in software development and business, with hands-on experience in Microsoft Azure, Power Automate, SharePoint, databases and Microsoft Office.
 
