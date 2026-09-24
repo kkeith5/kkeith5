@@ -3,7 +3,7 @@
 
 IT professional with experience in cloud technologies, technical troubleshooting and enterprise IT environments. I have a background in software development and business, with hands-on experience in Microsoft Azure, Power Automate, SharePoint, databases and Microsoft Office.
 
-I'm currently building my IT support skills through the TCM Security Practical Help Desk course, a hands-on Active Directory home lab, and a Microsoft 365 / Entra ID admin lab, where I've been working with Windows Server, domain users, groups, Group Policy, networking, dynamic groups and role-based access.
+I've recently built my IT support skills through the TCM Security Practical Help Desk course, a hands-on Active Directory home lab, and seperatly built a Microsoft 365 / Entra ID admin lab, where I've been working with Windows Server, domain users, groups, Group Policy, networking, dynamic groups and role-based access.
 
 ## Objective
 I'm looking for an entry-level IT Support, Helpdesk or Desktop Support role where I can put my technical background to use and get real hands-on experience supporting users and systems. My goal is to build a strong foundation in day-to-day IT support and grow into Microsoft 365 and systems administration.
