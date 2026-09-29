@@ -3,7 +3,7 @@
 
 IT professional with experience in cloud technologies, technical troubleshooting and enterprise IT environments. I have a background in software development and business, with hands-on experience in Microsoft Azure, Power Automate, SharePoint, databases and Microsoft Office.
 
-I've recently built my IT support skills through the TCM Security Practical Help Desk course, with ending project being a hands-on Active Directory home lab, and separately built a Microsoft 365 / Entra ID admin lab, where I've been working with Windows Server, domain users, groups, Group Policy, networking, dynamic groups and role-based access.
+I've recently built my IT support skills through the TCM Security Practical Help Desk course, with the ending project being a hands-on Active Directory home lab. I separately built a Microsoft 365 / Entra ID admin lab, working with domain users, groups, Group Policy, networking, dynamic groups and role-based access — and then connected the two with a hybrid identity lab using Entra Connect Sync.
 
 ## Objective
 I'm looking for an entry-level IT Support, Helpdesk or Desktop Support role where I can put my technical background to use and get real hands-on experience supporting users and systems. My goal is to build a strong foundation in day-to-day IT support and grow into Microsoft 365 and systems administration.
@@ -18,6 +18,8 @@ I'm looking for an entry-level IT Support, Helpdesk or Desktop Support role wher
 | Bulk user provisioning with PowerShell and Microsoft Graph | <a href="https://github.com/kkeith5/Microsoft365EntraIdAdminLab">Microsoft 365 / Entra ID Admin Lab</a> |
 | Microsoft 365 and security group design, dynamic membership rules | <a href="https://github.com/kkeith5/Microsoft365EntraIdAdminLab">Microsoft 365 / Entra ID Admin Lab</a> |
 | Least-privilege role assignment and licence management | <a href="https://github.com/kkeith5/Microsoft365EntraIdAdminLab">Microsoft 365 / Entra ID Admin Lab</a> |
+| Hybrid identity sync between on-prem AD and Entra ID | <a href="https://github.com/kkeith5/EntraConnectHybridIdentityLab">Entra Connect Hybrid Identity Lab</a> |
+| Password hash sync, OU filtering, attribute troubleshooting | <a href="https://github.com/kkeith5/EntraConnectHybridIdentityLab">Entra Connect Hybrid Identity Lab</a> |
 | Remote support, Linux and Windows admin, network troubleshooting | TCM Security Practical Help Desk labs |
 
 ## Tools
@@ -25,6 +27,7 @@ I'm looking for an entry-level IT Support, Helpdesk or Desktop Support role wher
     <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Entra_Connect-0078D4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Graph-0078D4?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
@@ -43,3 +46,4 @@ I'm looking for an entry-level IT Support, Helpdesk or Desktop Support role wher
 ## Projects
 - [Active Directory Home Lab](https://github.com/kkeith5/ActiveDirectoryHomeLab): domain controller, OUs, users and GPOs in VirtualBox
 - [Microsoft 365 / Entra ID Admin Lab](https://github.com/kkeith5/Microsoft365EntraIdAdminLab): bulk user provisioning, dynamic groups and role-based access via PowerShell and Microsoft Graph
+- [Entra Connect Hybrid Identity Lab](https://github.com/kkeith5/EntraConnectHybridIdentityLab): syncing on-prem Active Directory to Entra ID with Entra Connect Sync, password hash sync and dynamic group integration
